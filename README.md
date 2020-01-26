@@ -1,2 +1,0 @@
-# CRUDReactHooks
-Created with CodeSandbox
